@@ -1,2 +1,3 @@
 # PracticaHaskell
 Practica Haskell Lambda Calculus...
+Hecho por @Juanji29 (Juan Esteban Jimenez Cardona)
